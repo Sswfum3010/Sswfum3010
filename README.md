@@ -49,21 +49,6 @@ I am a passionate developer who loves building fun toys and practical tools in t
 
 ---
 
-### 🏆 GitHub Trophies & Stats
-
-<div align="center">
-  <!-- Comprehensive Stats Card -->
-  <a href="https://github.com/Sswfum3010">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sswfum3010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Sswfum3010">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sswfum3010&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -74,26 +59,6 @@ I am a passionate developer who loves building fun toys and practical tools in t
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sswfum3010/Sswfum3010/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-### 📬 Let's Connect
-
-<div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourblog.com">
-    <img src="https://img.shields.io/badge/Personal_Blog-222222?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" />
-  </a>
-</div>
-<br>
 
 <div align="center">
   <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
